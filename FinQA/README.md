@@ -1,4 +1,4 @@
-# FinQA
+# Question Answering Model
 A Dataset of Numerical Reasoning over Financial Data
 Learned from EMNLP 2021 paper: FinQA
 <https://arxiv.org/abs/2109.00122>
