@@ -1,10 +1,5 @@
 # Question Answering Model
 A Dataset of Numerical Reasoning over Financial Data
-Learned from EMNLP 2021 paper: FinQA
-<https://arxiv.org/abs/2109.00122>
-
-![alt text](https://github.com/czyssrs/FinQA/blob/main/eg-intro.png?raw=true)
-
 
 **Requirements**:
 
